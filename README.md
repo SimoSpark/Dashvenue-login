@@ -14,10 +14,3 @@ CSS3: Styling.<br>
 
 
 
-
-
-
-
-
-
-![Uploading Screenshot 2024-10-05 162639.jpg…]()
